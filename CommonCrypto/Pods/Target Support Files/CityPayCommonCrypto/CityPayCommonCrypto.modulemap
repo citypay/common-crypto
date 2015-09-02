@@ -1,0 +1,6 @@
+framework module CityPayCommonCrypto {
+  umbrella header "CityPayCommonCrypto-umbrella.h"
+
+  export *
+  module * { export * }
+}
